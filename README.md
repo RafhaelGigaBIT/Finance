@@ -2,5 +2,5 @@
 ## If you are using Yarn
 yarn start
 
-##Else
+## Else
 expo start
